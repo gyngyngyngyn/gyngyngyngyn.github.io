@@ -1,8 +1,8 @@
-## Welcome to Gyn's Pages
+## Welcome to Gyn's Blog
 
 你好呀~
 
-### 副标题
+### 写个标题
 
 
 # 标题 1
